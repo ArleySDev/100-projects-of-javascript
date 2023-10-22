@@ -1,5 +1,9 @@
-Password Generator
+# Project #1
 
-Only HTML, CSS and JavaScript.
+### Password Generator
+Password generator created entirely in HTML, CSS and JavaScript.
 
+# Screenshot
+Project screenshot :
 
+![screenshot](imagem.png)
