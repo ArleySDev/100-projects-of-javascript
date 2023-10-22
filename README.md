@@ -1,3 +1,3 @@
-# 100-projects-of-javascript
+# Projects-of-javascript
 
 Compilado de projetos de JavaScript.
